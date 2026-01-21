@@ -1,52 +1,49 @@
-# Hub Halal - Modern Islamic App
+# Hub Halal
 
-A modern, minimalist desktop application for Islamic resources with Quran, prayer times, and Islamic media.
+Application de bureau moderne pour les musulmans - Coran, horaires de prière et ressources islamiques.
 
-## Features
+## 📥 Téléchargement
 
-### Phase 0 ✅ (Fondations)
-- **Auth System**: Local SQLite database with user registration and login
-- **Settings Management**: Customizable user preferences
-- **Modern UI**: Apple-inspired design with Tailwind CSS
-- **Multi-language Support**: French, English, Arabic ready
+Rendez-vous dans la section [Releases](https://github.com/ShadowWLX/hub-halal/releases) pour télécharger la dernière version:
 
-### Phase 1 🚀 (Onglet Coran)
-- Complete Quran display using AlQuran Cloud API
-- Arabic text with Uthmani font
-- Surah browsing
-- Ready for: translations, tafsir, tajweed fonts
+- **Hub Halal Setup.exe** - Installeur Windows (recommandé)
+- **Hub Halal.exe** - Version portable
 
-### Phase 2 🔄 (Onglet Prières)
-- Prayer times using Aladhan API
-- Location-based calculations
-- Madhab selection
-- Notification system ready
+## ✨ Fonctionnalités
 
-### Phase 3 📺 (Onglet Média)
-- Recitations management
-- Playlist creation
-- Built-in player ready
-- Educational videos embedding ready
+### 📖 Coran
+- Affichage complet du Coran
+- 3 polices arabes : Uthmani simple, Police .ttf, Tajweed coloré
+- Traduction française
+- Translittération phonétique
+- Règles de Tajweed avec guide visuel
 
-### Phase 4 🧠 (Valeur Ajoutée)
-- Bookmarks
-- Personal notes
-- AI-powered tafsir summaries
+### 🕌 Prières
+- Horaires de prière automatiques
+- Adhan automatique à l'heure de la prière
+- Notifications 5 minutes avant
+- Compte à rebours avec affichage des secondes
+- Invocation avant la prière (10 min)
+- Localisation automatique ou recherche de ville
 
-## Tech Stack
+### 🎯 Pratique
+- Démarrage automatique avec Windows
+- Minimisation en tray (l'app reste active en arrière-plan)
+- Mises à jour automatiques
+- Mode dev/release séparé
 
-- **Electron 27**: Cross-platform desktop framework
-- **React 18**: UI library
-- **TypeScript**: Type-safe development
-- **Tailwind CSS**: Modern styling
-- **SQLite3**: Local database
-- **Vite**: Fast build tool
+## 🔄 Mises à jour
 
-## Getting Started
+L'application vérifie automatiquement les mises à jour au démarrage et vous notifie quand une nouvelle version est disponible.
 
-### Prerequisites
-- Node.js 18+
-- npm or yarn
+## 📝 Notes de version
+
+Consultez les [Releases](https://github.com/ShadowWLX/hub-halal/releases) pour l'historique complet.
+
+---
+
+**Version actuelle:** 0.1.1  
+**Développeur:** ShadowWLX
 
 ### Installation
 
