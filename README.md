@@ -42,7 +42,7 @@ Consultez les [Releases](https://github.com/ShadowWLX/hub-halal/releases) pour l
 
 ---
 
-**Version actuelle:** 0.1.1  
+**Version actuelle:** 0.1.2  
 **Développeur:** ShadowWLX
 
 ### Installation
